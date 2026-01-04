@@ -1,0 +1,21 @@
+CAR PRICE PREDICTION MODEL CARD
+
+Best Model: Random Forest Regressor
+
+Performance:
+- R² Score: ~0.87
+- MAE: ~1.2 Lakhs
+- RMSE: ~1.8 Lakhs
+
+Features Used:
+- Present_Price
+- Vehicle_Age
+- Kms_Driven
+- Owner
+- Fuel_Type
+- Transmission
+- Brand_Category
+
+Notes:
+- No data leakage
+- 5-fold cross-validation applied
