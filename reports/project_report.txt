@@ -1,0 +1,18 @@
+USED CAR PRICE PREDICTION – FINAL REPORT
+
+Total Records Analyzed: 301
+
+Best Model:
+Random Forest Regressor
+
+Key Results:
+- Achieved R² score of approximately 87%
+- Vehicle age and mileage are top predictors
+- Diesel vehicles show better resale value
+
+Business Recommendations:
+- Buy luxury cars after 3–5 years
+- Prefer diesel for high-usage vehicles
+- Use ML-based pricing for fair valuation
+
+Project Status: Completed Successfully
